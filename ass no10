@@ -1,4 +1,4 @@
-Assignment No.10
+
 Write an Embedded C program for Generating PWM signal for servo motor/DC motor. 
 /*Calculations:
 Fosc = 20MHz
