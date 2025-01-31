@@ -1,4 +1,4 @@
- Assignment No.5
+
 i)	Write an Embedded C program for sorting the numbers in ascending order.
 Program-
 #include <stdio.h>
